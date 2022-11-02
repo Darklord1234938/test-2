@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+span {
+    border-bottom: 2px solid black;
+    padding: px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button{
+    background: white
+}
